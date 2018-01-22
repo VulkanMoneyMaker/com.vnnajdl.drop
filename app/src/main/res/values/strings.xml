@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Онлайн клуб</string>
+    <string name="facebook_app_id">137476607057802</string>
+
+    <string name="title_activity__player">Activity_Player</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
